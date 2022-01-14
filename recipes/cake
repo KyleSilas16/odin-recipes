@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Index</title>
+      <charset meta="UTF-8">
+    </head>
+    
+    <body>  
+      <h1>Cake</h1>
+
+        <img src="https://letthebakingbegin.com/wp-content/uploads/2017/09/Simple-Yellow-Sponge-Cake-foolproof-recipe-for-a-fluffy-delicious-yellow-cake-that-can-be-used-for-cakes-and-cupcakes-by-Let-the-Baking-Begin-2-5-2-600x901.jpg" alt="wonderful sponge cake">
+       <p> <em>Soft, Delicious Sponge Cake</em></p>
+
+<p></p>
+       <h4>Description</h4>
+         This lovely sponge cake is easy to make and uses the ingredients you have in your cupboard.
+       <h4>Ingredients</h4>
+         <ul>
+           <li>4 eggs</li>
+           <li>1 cup sugar</li>
+           <li>1 cup, All-purpose Flour</li>
+           <li>1 TBSP Baking Powder</li>
+           <li>1 TBSP Hot water</li>
+           <li>1 Tsp Vanilla extract</li>
+         </ul>
+       
+
+    </body>
+
+
+  </html>
