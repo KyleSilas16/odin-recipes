@@ -1,0 +1,43 @@
+* {
+  background-color: black;
+  color:white;
+  font-family:"times new roman", "arial";
+  font-size:20px;
+  
+  
+  }
+
+h1 { 
+  color: orange;
+  text-align: center;
+  background-color: grey;
+  font-size: 45px;
+   }
+
+h3 { 
+  color: orange;
+  text-align: center;
+  background-color: grey;
+  font-size: 30px;
+   }
+
+
+p {
+  text-align:center;
+  height:20px;
+  width: auto;
+  background-color: purple;
+  }
+
+img {
+  Height: auto;
+  Width: 100%;
+    }
+
+.recipe {
+  text-align:center;
+  }
+
+
+  
+
